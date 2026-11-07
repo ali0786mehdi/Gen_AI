@@ -1,0 +1,3 @@
+shoes | 3999
+formals | 4000
+goggles | 999
